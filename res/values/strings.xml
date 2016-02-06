@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name"> </string>
+    <string name="select_exercise">What exercise did you do?</string>
+    <string-array name = "exercise_names">
+        <item>Push Up</item>
+        <item>Sit Up</item>
+        <item>Squats</item>
+        <item>Leg Lift</item>
+        <item>Plank</item>
+        <item>Jumping Jacks</item>
+        <item>Pull Up</item>
+        <item>Cycling</item>
+        <item>Walking</item>
+        <item>Jogging</item>
+        <item>Swimming</item>
+        <item>Stair Climbing</item>
+    </string-array>
+    <string name="button1">SHOW ME!</string>
+    <string-array name = "motivations">
+        <item>FANTASTIC!</item>
+        <item>GREAT!</item>
+        <item>CONGRATS!</item>
+        <item>YASSSS WERK!</item>
+        <item>LOOKING GOOD!</item>
+        <item>KEEP IT UP!</item>
+        <item>AMAZING!</item>
+        <item>YOU INSPIRE ME!</item>
+        <item>YAS SWEAT!</item>
+        <item>SWEAT IS YOUR FAT CRYING!</item>
+    </string-array>
+
+</resources>
